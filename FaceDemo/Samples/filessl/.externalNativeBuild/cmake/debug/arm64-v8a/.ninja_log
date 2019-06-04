@@ -1,0 +1,9 @@
+# ninja log v5
+0	264	1554775511	CMakeFiles/jlx_filessl.dir/src/main/cpp/verify.cpp.o	a077839349aeef2
+0	338	1554775511	CMakeFiles/jlx_filessl.dir/src/main/cpp/jni_ssl.cpp.o	1351ae7196c1c
+0	704	1554775511	CMakeFiles/jlx_filessl.dir/home/work/work/FaceDemoRelease/gtiRelease/jlx_third_party/third_party/miniglog/glog/logging.cc.o	1f0025a58d7a6445
+705	728	1554775511	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libjlx_filessl.so	a08494969516246
+6	255	1554776496	CMakeFiles/jlx_filessl.dir/src/main/cpp/verify.cpp.o	a077839349aeef2
+0	285	1554776496	CMakeFiles/jlx_filessl.dir/src/main/cpp/jni_ssl.cpp.o	1351ae7196c1c
+7	662	1554776496	CMakeFiles/jlx_filessl.dir/home/work/work/FaceDemoRelease/gtiRelease/jlx_third_party/third_party/miniglog/glog/logging.cc.o	1f0025a58d7a6445
+662	681	1554776496	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libjlx_filessl.so	a08494969516246

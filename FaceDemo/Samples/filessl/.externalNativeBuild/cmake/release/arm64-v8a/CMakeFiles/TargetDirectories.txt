@@ -1,0 +1,3 @@
+/home/work/work/FaceDemoRelease/gtiRelease/filessl/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/home/work/work/FaceDemoRelease/gtiRelease/filessl/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/work/work/FaceDemoRelease/gtiRelease/filessl/.externalNativeBuild/cmake/release/arm64-v8a/CMakeFiles/jlx_filessl.dir

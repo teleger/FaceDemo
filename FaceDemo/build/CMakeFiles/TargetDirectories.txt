@@ -1,0 +1,4 @@
+/home/work/work/Samples_Linux_x64/FaceDemo/build/CMakeFiles/edit_cache.dir
+/home/work/work/Samples_Linux_x64/FaceDemo/build/CMakeFiles/rebuild_cache.dir
+/home/work/work/Samples_Linux_x64/FaceDemo/build/CMakeFiles/sqlite3.dir
+/home/work/work/Samples_Linux_x64/FaceDemo/build/CMakeFiles/jlx_classify.dir

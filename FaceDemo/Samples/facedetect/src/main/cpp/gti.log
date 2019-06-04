@@ -1,0 +1,619 @@
+- 1558506710606 -140304698492736- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558506710607 -140304698492736- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558506710608 -140304698492736- 0-:can not open file:/dev/sg1
+- 1558506710608 -140304698492736- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558506710608 -140304698492736- 0-:Could not find any available device
+- 1558506965670 -139923324761920- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558506965671 -139923324761920- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558506965681 -139923324761920- 0-:can not open file:/dev/sg1
+- 1558506965681 -139923324761920- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558506965681 -139923324761920- 0-:Could not find any available device
+- 1558507730863 -140408962111296- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558507730864 -140408962111296- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558507730865 -140408962111296- 0-:can not open file:/dev/sg1
+- 1558507730866 -140408962111296- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558507730866 -140408962111296- 0-:Could not find any available device
+- 1558507825126 -139829946955584- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558507825127 -139829946955584- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558507825129 -139829946955584- 0-:can not open file:/dev/sg1
+- 1558507825129 -139829946955584- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558507825129 -139829946955584- 0-:Could not find any available device
+- 1558507949636 -140471097927488- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558507949637 -140471097927488- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558507949639 -140471097927488- 0-:can not open file:/dev/sg1
+- 1558507949639 -140471097927488- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558507949639 -140471097927488- 0-:Could not find any available device
+- 1558508133927 -139812379150144- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558508133928 -139812379150144- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558508133929 -139812379150144- 0-:can not open file:/dev/sg1
+- 1558508133929 -139812379150144- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558508133929 -139812379150144- 0-:Could not find any available device
+- 1558508272737 -140291711797056- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558508272739 -140291711797056- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558508272740 -140291711797056- 0-:can not open file:/dev/sg1
+- 1558508272741 -140291711797056- 0-:Could not lock device. Device:/dev/sg1----could not open file
+- 1558508272741 -140291711797056- 0-:Could not find any available device
+- 1558509184306 -139831802529600- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558509184307 -139831802529600- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558509184310 -139831802529600- 1-:Could not determine the chip, default setting to 2801
+- 1558509184310 -139831802529600- 2-:create Chip2801
+- 1558509431034 -140658638554944- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558509431035 -140658638554944- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558509431037 -140658638554944- 1-:Could not determine the chip, default setting to 2801
+- 1558509431037 -140658638554944- 2-:create Chip2801
+- 1558509720250 -139937771444032- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558509720251 -139937771444032- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558509720253 -139937771444032- 1-:Could not determine the chip, default setting to 2801
+- 1558509720253 -139937771444032- 2-:create Chip2801
+- 1558509787384 -140667053324096- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558509787385 -140667053324096- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558509787387 -140667053324096- 1-:Could not determine the chip, default setting to 2801
+- 1558509787388 -140667053324096- 2-:create Chip2801
+- 1558510223895 -139668649830208- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558510223899 -139668649830208- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558510223908 -139668649830208- 1-:Could not determine the chip, default setting to 2801
+- 1558510223908 -139668649830208- 2-:create Chip2801
+- 1558510326574 -139887167506240- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558510326576 -139887167506240- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558510326580 -139887167506240- 1-:Could not determine the chip, default setting to 2801
+- 1558510326580 -139887167506240- 2-:create Chip2801
+- 1558510548847 -139773036169024- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558510548848 -139773036169024- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558510548850 -139773036169024- 1-:Could not determine the chip, default setting to 2801
+- 1558510548851 -139773036169024- 2-:create Chip2801
+- 1558510726507 -139630942525248- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558510726510 -139630942525248- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558510726519 -139630942525248- 1-:Could not determine the chip, default setting to 2801
+- 1558510726519 -139630942525248- 2-:create Chip2801
+- 1558510837926 -139624902977344- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558510837927 -139624902977344- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558510837929 -139624902977344- 1-:Could not determine the chip, default setting to 2801
+- 1558510837929 -139624902977344- 2-:create Chip2801
+- 1558511259504 -139863180646208- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558511259506 -139863180646208- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558511259509 -139863180646208- 1-:Could not determine the chip, default setting to 2801
+- 1558511259509 -139863180646208- 2-:create Chip2801
+- 1558511448835 -139890984847168- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558511448839 -139890984847168- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558511448844 -139890984847168- 1-:Could not determine the chip, default setting to 2801
+- 1558511448844 -139890984847168- 2-:create Chip2801
+- 1558511796443 -140069124806464- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558511796446 -140069124806464- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558511796450 -140069124806464- 1-:Could not determine the chip, default setting to 2801
+- 1558511796450 -140069124806464- 2-:create Chip2801
+- 1558512097215 -139738336909120- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558512097218 -139738336909120- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558512097224 -139738336909120- 1-:Could not determine the chip, default setting to 2801
+- 1558512097224 -139738336909120- 2-:create Chip2801
+- 1558512420931 -140274827179840- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558512420934 -140274827179840- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558512420938 -140274827179840- 1-:Could not determine the chip, default setting to 2801
+- 1558512420938 -140274827179840- 2-:create Chip2801
+- 1558512586463 -140334545946432- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558512586466 -140334545946432- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558512586472 -140334545946432- 1-:Could not determine the chip, default setting to 2801
+- 1558512586472 -140334545946432- 2-:create Chip2801
+- 1558512677199 -140162805516096- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558512677201 -140162805516096- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558512677206 -140162805516096- 1-:Could not determine the chip, default setting to 2801
+- 1558512677206 -140162805516096- 2-:create Chip2801
+- 1558512922446 -140259274508096- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558512922447 -140259274508096- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558512922449 -140259274508096- 1-:Could not determine the chip, default setting to 2801
+- 1558512922449 -140259274508096- 2-:create Chip2801
+- 1558512998199 -139695502731072- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558512998203 -139695502731072- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558512998209 -139695502731072- 1-:Could not determine the chip, default setting to 2801
+- 1558512998209 -139695502731072- 2-:create Chip2801
+- 1558513158208 -139749673695040- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558513158211 -139749673695040- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558513158217 -139749673695040- 1-:Could not determine the chip, default setting to 2801
+- 1558513158217 -139749673695040- 2-:create Chip2801
+- 1558513454430 -140301997979456- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558513454432 -140301997979456- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558513454436 -140301997979456- 1-:Could not determine the chip, default setting to 2801
+- 1558513454436 -140301997979456- 2-:create Chip2801
+- 1558513645646 -140607255127872- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558513645647 -140607255127872- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558513645650 -140607255127872- 1-:Could not determine the chip, default setting to 2801
+- 1558513645650 -140607255127872- 2-:create Chip2801
+- 1558514308964 -140671517558592- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558514308965 -140671517558592- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558514308969 -140671517558592- 1-:Could not determine the chip, default setting to 2801
+- 1558514308969 -140671517558592- 2-:create Chip2801
+- 1558514448375 -139762479159104- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558514448379 -139762479159104- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558514448383 -139762479159104- 1-:Could not determine the chip, default setting to 2801
+- 1558514448383 -139762479159104- 2-:create Chip2801
+- 1558514822571 -139719811213120- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558514822581 -139719811213120- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558514822584 -139719811213120- 1-:Could not determine the chip, default setting to 2801
+- 1558514822584 -139719811213120- 2-:create Chip2801
+- 1558515023151 -140123457492800- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515023154 -140123457492800- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515023158 -140123457492800- 1-:Could not determine the chip, default setting to 2801
+- 1558515023158 -140123457492800- 2-:create Chip2801
+- 1558515066763 -140238581757760- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515066766 -140238581757760- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515066770 -140238581757760- 1-:Could not determine the chip, default setting to 2801
+- 1558515066770 -140238581757760- 2-:create Chip2801
+- 1558515141454 -140398720255808- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515141456 -140398720255808- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515141460 -140398720255808- 1-:Could not determine the chip, default setting to 2801
+- 1558515141460 -140398720255808- 2-:create Chip2801
+- 1558515272727 -139662112823104- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515272730 -139662112823104- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515272735 -139662112823104- 1-:Could not determine the chip, default setting to 2801
+- 1558515272735 -139662112823104- 2-:create Chip2801
+- 1558515312395 -140376041199424- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515312398 -140376041199424- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515312404 -140376041199424- 1-:Could not determine the chip, default setting to 2801
+- 1558515312404 -140376041199424- 2-:create Chip2801
+- 1558515417156 -139990674806592- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515417159 -139990674806592- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515417163 -139990674806592- 1-:Could not determine the chip, default setting to 2801
+- 1558515417163 -139990674806592- 2-:create Chip2801
+- 1558515428611 -140284840113984- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515428613 -140284840113984- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515428617 -140284840113984- 1-:Could not determine the chip, default setting to 2801
+- 1558515428617 -140284840113984- 2-:create Chip2801
+- 1558515461614 -140616385091392- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515461616 -140616385091392- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515461620 -140616385091392- 1-:Could not determine the chip, default setting to 2801
+- 1558515461620 -140616385091392- 2-:create Chip2801
+- 1558515500267 -140160808994624- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515500268 -140160808994624- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515500271 -140160808994624- 1-:Could not determine the chip, default setting to 2801
+- 1558515500271 -140160808994624- 2-:create Chip2801
+- 1558515621067 -140391505831744- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515621069 -140391505831744- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515621074 -140391505831744- 1-:Could not determine the chip, default setting to 2801
+- 1558515621074 -140391505831744- 2-:create Chip2801
+- 1558515882763 -140183880726336- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515882765 -140183880726336- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515882770 -140183880726336- 1-:Could not determine the chip, default setting to 2801
+- 1558515882770 -140183880726336- 2-:create Chip2801
+- 1558515929611 -139729254958912- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558515929615 -139729254958912- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558515929618 -139729254958912- 1-:Could not determine the chip, default setting to 2801
+- 1558515929619 -139729254958912- 2-:create Chip2801
+- 1558573150243 -140393390466880- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573150244 -140393390466880- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573150248 -140393390466880- 1-:Could not determine the chip, default setting to 2801
+- 1558573150248 -140393390466880- 2-:create Chip2801
+- 1558573248001 -139993601546048- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573248005 -139993601546048- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573249733 -139993601546048- 1-:Could not determine the chip, default setting to 2801
+- 1558573249733 -139993601546048- 2-:create Chip2801
+- 1558573375675 -140346439681856- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573375679 -140346439681856- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573375685 -140346439681856- 1-:Could not determine the chip, default setting to 2801
+- 1558573375685 -140346439681856- 2-:create Chip2801
+- 1558573612073 -139906643580736- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573612077 -139906643580736- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573613777 -139906643580736- 1-:Could not determine the chip, default setting to 2801
+- 1558573613777 -139906643580736- 2-:create Chip2801
+- 1558573834865 -139968974710592- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573834867 -139968974710592- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573834871 -139968974710592- 1-:Could not determine the chip, default setting to 2801
+- 1558573834871 -139968974710592- 2-:create Chip2801
+- 1558573886895 -139624021735232- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573886898 -139624021735232- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573886902 -139624021735232- 1-:Could not determine the chip, default setting to 2801
+- 1558573886902 -139624021735232- 2-:create Chip2801
+- 1558573923761 -140575586871104- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558573923764 -140575586871104- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558573926849 -140575586871104- 1-:Could not determine the chip, default setting to 2801
+- 1558573926849 -140575586871104- 2-:create Chip2801
+- 1558574231514 -139885196064576- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558574231515 -139885196064576- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558574231518 -139885196064576- 1-:Could not determine the chip, default setting to 2801
+- 1558574231519 -139885196064576- 2-:create Chip2801
+- 1558574306659 -139837737969472- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558574306662 -139837737969472- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558574306667 -139837737969472- 1-:Could not determine the chip, default setting to 2801
+- 1558574306667 -139837737969472- 2-:create Chip2801
+- 1558574506735 -140163373160256- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558574506738 -140163373160256- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558574506744 -140163373160256- 1-:Could not determine the chip, default setting to 2801
+- 1558574506744 -140163373160256- 2-:create Chip2801
+- 1558574774255 -140521766688576- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558574774258 -140521766688576- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558574774265 -140521766688576- 1-:Could not determine the chip, default setting to 2801
+- 1558574774265 -140521766688576- 2-:create Chip2801
+- 1558574973379 -139895356753728- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558574973382 -139895356753728- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558574973387 -139895356753728- 1-:Could not determine the chip, default setting to 2801
+- 1558574973388 -139895356753728- 2-:create Chip2801
+- 1558575162283 -140089897662272- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558575162286 -140089897662272- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558575162293 -140089897662272- 1-:Could not determine the chip, default setting to 2801
+- 1558575162293 -140089897662272- 2-:create Chip2801
+- 1558575302287 -139852014040896- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558575302290 -139852014040896- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558575302296 -139852014040896- 1-:Could not determine the chip, default setting to 2801
+- 1558575302296 -139852014040896- 2-:create Chip2801
+- 1558575336438 -140462902191936- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558575336440 -140462902191936- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558575336444 -140462902191936- 1-:Could not determine the chip, default setting to 2801
+- 1558575336445 -140462902191936- 2-:create Chip2801
+- 1558575788247 -140180073019200- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558575788250 -140180073019200- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558575788254 -140180073019200- 1-:Could not determine the chip, default setting to 2801
+- 1558575788254 -140180073019200- 2-:create Chip2801
+- 1558575832495 -139791388436288- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558575832498 -139791388436288- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558575832505 -139791388436288- 1-:Could not determine the chip, default setting to 2801
+- 1558575832505 -139791388436288- 2-:create Chip2801
+- 1558576798518 -140516393781056- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558576798519 -140516393781056- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558576798522 -140516393781056- 1-:Could not determine the chip, default setting to 2801
+- 1558576798522 -140516393781056- 2-:create Chip2801
+- 1558577055169 -140281791534912- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577055172 -140281791534912- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577055178 -140281791534912- 1-:Could not determine the chip, default setting to 2801
+- 1558577055178 -140281791534912- 2-:create Chip2801
+- 1558577105963 -140149505427264- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577105967 -140149505427264- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577105973 -140149505427264- 1-:Could not determine the chip, default setting to 2801
+- 1558577105973 -140149505427264- 2-:create Chip2801
+- 1558577261814 -139900811454272- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577261815 -139900811454272- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577261818 -139900811454272- 1-:Could not determine the chip, default setting to 2801
+- 1558577261818 -139900811454272- 2-:create Chip2801
+- 1558577335039 -140125485651776- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577335041 -140125485651776- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577335045 -140125485651776- 1-:Could not determine the chip, default setting to 2801
+- 1558577335045 -140125485651776- 2-:create Chip2801
+- 1558577438583 -140705229883200- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577438586 -140705229883200- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577438591 -140705229883200- 1-:Could not determine the chip, default setting to 2801
+- 1558577438591 -140705229883200- 2-:create Chip2801
+- 1558577487993 -140044472588096- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577487996 -140044472588096- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577489853 -140044472588096- 1-:Could not determine the chip, default setting to 2801
+- 1558577489853 -140044472588096- 2-:create Chip2801
+- 1558577580095 -140455158671168- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577580098 -140455158671168- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577580102 -140455158671168- 1-:Could not determine the chip, default setting to 2801
+- 1558577580102 -140455158671168- 2-:create Chip2801
+- 1558577850375 -140418745870144- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558577850378 -140418745870144- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558577850384 -140418745870144- 1-:Could not determine the chip, default setting to 2801
+- 1558577850384 -140418745870144- 2-:create Chip2801
+- 1558578162242 -140459208529728- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578162245 -140459208529728- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578162252 -140459208529728- 1-:Could not determine the chip, default setting to 2801
+- 1558578162252 -140459208529728- 2-:create Chip2801
+- 1558578535618 -139681962002240- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578535620 -139681962002240- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578535623 -139681962002240- 1-:Could not determine the chip, default setting to 2801
+- 1558578535623 -139681962002240- 2-:create Chip2801
+- 1558578610666 -140238753728320- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578610669 -140238753728320- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578610672 -140238753728320- 1-:Could not determine the chip, default setting to 2801
+- 1558578610672 -140238753728320- 2-:create Chip2801
+- 1558578756818 -140561106589504- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578756821 -140561106589504- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578756827 -140561106589504- 1-:Could not determine the chip, default setting to 2801
+- 1558578756827 -140561106589504- 2-:create Chip2801
+- 1558578786911 -139722197321536- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578786914 -139722197321536- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578786918 -139722197321536- 1-:Could not determine the chip, default setting to 2801
+- 1558578786918 -139722197321536- 2-:create Chip2801
+- 1558578807594 -140698644760384- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578807595 -140698644760384- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578807598 -140698644760384- 1-:Could not determine the chip, default setting to 2801
+- 1558578807598 -140698644760384- 2-:create Chip2801
+- 1558578875847 -139940750018368- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578875850 -139940750018368- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578875855 -139940750018368- 1-:Could not determine the chip, default setting to 2801
+- 1558578875855 -139940750018368- 2-:create Chip2801
+- 1558578950586 -139716213045056- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558578950588 -139716213045056- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3.2/3-3.2:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558578950591 -139716213045056- 1-:Could not determine the chip, default setting to 2801
+- 1558578950592 -139716213045056- 2-:create Chip2801
+- 1558579164502 -140533071685440- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558579164503 -140533071685440- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558579164507 -140533071685440- 1-:Could not determine the chip, default setting to 2801
+- 1558579164507 -140533071685440- 2-:create Chip2801
+- 1558579523295 -140387006699328- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558579523297 -140387006699328- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558579523302 -140387006699328- 1-:Could not determine the chip, default setting to 2801
+- 1558579523302 -140387006699328- 2-:create Chip2801
+- 1558579841135 -140199220287296- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558579841138 -140199220287296- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558579841144 -140199220287296- 1-:Could not determine the chip, default setting to 2801
+- 1558579841144 -140199220287296- 2-:create Chip2801
+- 1558579876715 -140168532981568- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558579876717 -140168532981568- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558579876721 -140168532981568- 1-:Could not determine the chip, default setting to 2801
+- 1558579876721 -140168532981568- 2-:create Chip2801
+- 1558580207287 -139642209216320- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558580207291 -139642209216320- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558580207297 -139642209216320- 1-:Could not determine the chip, default setting to 2801
+- 1558580207297 -139642209216320- 2-:create Chip2801
+- 1558597604565 -140314990454592- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558597604567 -140314990454592- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558597604570 -140314990454592- 1-:Could not determine the chip, default setting to 2801
+- 1558597604571 -140314990454592- 2-:create Chip2801
+- 1558598737823 -140492929361728- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558598737824 -140492929361728- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558598737828 -140492929361728- 1-:Could not determine the chip, default setting to 2801
+- 1558598737828 -140492929361728- 2-:create Chip2801
+- 1558598752979 -139669751269184- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558598752980 -139669751269184- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558598752983 -139669751269184- 1-:Could not determine the chip, default setting to 2801
+- 1558598752984 -139669751269184- 2-:create Chip2801
+- 1558598877235 -140537035024192- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558598877238 -140537035024192- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558598877242 -140537035024192- 1-:Could not determine the chip, default setting to 2801
+- 1558598877242 -140537035024192- 2-:create Chip2801
+- 1558599069278 -139690190391104- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558599069279 -139690190391104- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558599069281 -139690190391104- 1-:Could not determine the chip, default setting to 2801
+- 1558599069282 -139690190391104- 2-:create Chip2801
+- 1558599238378 -140255264012096- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558599238379 -140255264012096- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558599238381 -140255264012096- 1-:Could not determine the chip, default setting to 2801
+- 1558599238381 -140255264012096- 2-:create Chip2801
+- 1558599362501 -140106062190400- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558599362503 -140106062190400- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558599362506 -140106062190400- 1-:Could not determine the chip, default setting to 2801
+- 1558599362506 -140106062190400- 2-:create Chip2801
+- 1558601505939 -140312904873792- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558601505940 -140312904873792- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558601505943 -140312904873792- 1-:Could not determine the chip, default setting to 2801
+- 1558601505943 -140312904873792- 2-:create Chip2801
+- 1558601559412 -139714479970112- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558601559414 -139714479970112- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558601559416 -139714479970112- 1-:Could not determine the chip, default setting to 2801
+- 1558601559416 -139714479970112- 2-:create Chip2801
+- 1558601910709 -140024101242688- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558601910710 -140024101242688- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558601910713 -140024101242688- 1-:Could not determine the chip, default setting to 2801
+- 1558601910713 -140024101242688- 2-:create Chip2801
+- 1558602142581 -140152334903104- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558602142583 -140152334903104- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558602142585 -140152334903104- 1-:Could not determine the chip, default setting to 2801
+- 1558602142585 -140152334903104- 2-:create Chip2801
+- 1558608256381 -140002052200256- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558608256384 -140002052200256- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558608256387 -140002052200256- 1-:Could not determine the chip, default setting to 2801
+- 1558608256387 -140002052200256- 2-:create Chip2801
+- 1558608494631 -140654788118336- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558608494632 -140654788118336- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558608494635 -140654788118336- 1-:Could not determine the chip, default setting to 2801
+- 1558608494635 -140654788118336- 2-:create Chip2801
+- 1558608873223 -140376233056064- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558608873225 -140376233056064- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558608873227 -140376233056064- 1-:Could not determine the chip, default setting to 2801
+- 1558608873227 -140376233056064- 2-:create Chip2801
+- 1558608963780 -139734342149952- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558608963782 -139734342149952- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558608963786 -139734342149952- 1-:Could not determine the chip, default setting to 2801
+- 1558608963786 -139734342149952- 2-:create Chip2801
+- 1558663316281 -139759825377088- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558663316283 -139759825377088- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558663316287 -139759825377088- 1-:Could not determine the chip, default setting to 2801
+- 1558663316287 -139759825377088- 2-:create Chip2801
+- 1558664629463 -140538313680704- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558664629464 -140538313680704- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558664629466 -140538313680704- 1-:Could not determine the chip, default setting to 2801
+- 1558664629466 -140538313680704- 2-:create Chip2801
+- 1558664677304 -140625197025088- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558664677306 -140625197025088- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558664677310 -140625197025088- 1-:Could not determine the chip, default setting to 2801
+- 1558664677310 -140625197025088- 2-:create Chip2801
+- 1558664790097 -139631758223168- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558664790098 -139631758223168- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558664790101 -139631758223168- 1-:Could not determine the chip, default setting to 2801
+- 1558664790101 -139631758223168- 2-:create Chip2801
+- 1558664869219 -140171839113024- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558664869221 -140171839113024- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558664869225 -140171839113024- 1-:Could not determine the chip, default setting to 2801
+- 1558664869225 -140171839113024- 2-:create Chip2801
+- 1558664894395 -139672611477312- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558664894396 -139672611477312- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558664894398 -139672611477312- 1-:Could not determine the chip, default setting to 2801
+- 1558664894398 -139672611477312- 2-:create Chip2801
+- 1558665054738 -139729776842560- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558665054740 -139729776842560- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558665054743 -139729776842560- 1-:Could not determine the chip, default setting to 2801
+- 1558665054743 -139729776842560- 2-:create Chip2801
+- 1558665093528 -140519483713344- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558665093530 -140519483713344- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558665093534 -140519483713344- 1-:Could not determine the chip, default setting to 2801
+- 1558665093534 -140519483713344- 2-:create Chip2801
+- 1558665163725 -140180449900352- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558665163726 -140180449900352- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558665163729 -140180449900352- 1-:Could not determine the chip, default setting to 2801
+- 1558665163729 -140180449900352- 2-:create Chip2801
+- 1558666580874 -140075052513088- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558666580875 -140075052513088- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558666580879 -140075052513088- 1-:Could not determine the chip, default setting to 2801
+- 1558666580879 -140075052513088- 2-:create Chip2801
+- 1558666621000 -140311411140416- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558666621002 -140311411140416- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558666621005 -140311411140416- 1-:Could not determine the chip, default setting to 2801
+- 1558666621005 -140311411140416- 2-:create Chip2801
+- 1558666781735 -139949976110912- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558666781736 -139949976110912- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558666781739 -139949976110912- 1-:Could not determine the chip, default setting to 2801
+- 1558666781739 -139949976110912- 2-:create Chip2801
+- 1558667197650 -140117047326528- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667197651 -140117047326528- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667197654 -140117047326528- 1-:Could not determine the chip, default setting to 2801
+- 1558667197654 -140117047326528- 2-:create Chip2801
+- 1558667221791 -139648065759040- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667221792 -139648065759040- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667221795 -139648065759040- 1-:Could not determine the chip, default setting to 2801
+- 1558667221795 -139648065759040- 2-:create Chip2801
+- 1558667289583 -139811813840704- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667289585 -139811813840704- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667289589 -139811813840704- 1-:Could not determine the chip, default setting to 2801
+- 1558667289589 -139811813840704- 2-:create Chip2801
+- 1558667335087 -140442084267840- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667335090 -140442084267840- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667335093 -140442084267840- 1-:Could not determine the chip, default setting to 2801
+- 1558667335094 -140442084267840- 2-:create Chip2801
+- 1558667363688 -139785409476416- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667363691 -139785409476416- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667363694 -139785409476416- 1-:Could not determine the chip, default setting to 2801
+- 1558667363694 -139785409476416- 2-:create Chip2801
+- 1558667372788 -140036259006272- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667372791 -140036259006272- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667372794 -140036259006272- 1-:Could not determine the chip, default setting to 2801
+- 1558667372795 -140036259006272- 2-:create Chip2801
+- 1558667395740 -139764658054976- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667395743 -139764658054976- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667395752 -139764658054976- 1-:Could not determine the chip, default setting to 2801
+- 1558667395752 -139764658054976- 2-:create Chip2801
+- 1558667596883 -140049643591488- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667596885 -140049643591488- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667596888 -140049643591488- 1-:Could not determine the chip, default setting to 2801
+- 1558667596888 -140049643591488- 2-:create Chip2801
+- 1558667706134 -140185910122304- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667706136 -140185910122304- 2-:found device:USB_EMMC_000000000013:/sys/dev/char/../../devices/pci0000:00/0000:00:14.0/usb3/3-3/3-3:1.0/host6/target6:0:0/6:0:0:0/scsi_generic/sg1
+- 1558667706138 -140185910122304- 1-:Could not determine the chip, default setting to 2801
+- 1558667706138 -140185910122304- 2-:create Chip2801
+- 1558667925606 -140645541984064- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558667925613 -140645541984064- 2-:found device:USB_FTDI_0000
+- 1558667925622 -140645541984064- 1-:Could not determine the chip, default setting to 2801
+- 1558667925622 -140645541984064- 2-:create Chip2801
+- 1558677778950 -139972960192320- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558677778953 -139972960192320- 2-:found device:USB_FTDI_0000
+- 1558677778963 -139972960192320- 1-:Could not determine the chip, default setting to 2801
+- 1558677778963 -139972960192320- 2-:create Chip2801
+- 1558678005250 -139660908611392- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558678005252 -139660908611392- 2-:found device:USB_FTDI_0000
+- 1558678005261 -139660908611392- 1-:Could not determine the chip, default setting to 2801
+- 1558678005261 -139660908611392- 2-:create Chip2801
+- 1558678221095 -139774890301248- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558678221098 -139774890301248- 2-:found device:USB_FTDI_0000
+- 1558678221108 -139774890301248- 1-:Could not determine the chip, default setting to 2801
+- 1558678221108 -139774890301248- 2-:create Chip2801
+- 1558678296278 -140208185849664- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558678296280 -140208185849664- 2-:found device:USB_FTDI_0000
+- 1558678296289 -140208185849664- 1-:Could not determine the chip, default setting to 2801
+- 1558678296290 -140208185849664- 2-:create Chip2801
+- 1558678449217 -140433094465344- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558678449223 -140433094465344- 2-:found device:USB_FTDI_0000
+- 1558678449234 -140433094465344- 1-:Could not determine the chip, default setting to 2801
+- 1558678449234 -140433094465344- 2-:create Chip2801
+- 1558678575292 -140196822443840- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558678575294 -140196822443840- 2-:found device:USB_FTDI_0000
+- 1558678575303 -140196822443840- 1-:Could not determine the chip, default setting to 2801
+- 1558678575303 -140196822443840- 2-:create Chip2801
+- 1558678783566 -140033152083776- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558678783572 -140033152083776- 2-:found device:USB_FTDI_0000
+- 1558678783581 -140033152083776- 1-:Could not determine the chip, default setting to 2801
+- 1558678783581 -140033152083776- 2-:create Chip2801
+- 1558679128030 -140435124459328- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558679128033 -140435124459328- 2-:found device:USB_FTDI_0000
+- 1558679128043 -140435124459328- 1-:Could not determine the chip, default setting to 2801
+- 1558679128043 -140435124459328- 2-:create Chip2801
+- 1558679183026 -140369007212352- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558679183030 -140369007212352- 2-:found device:USB_FTDI_0000
+- 1558679183041 -140369007212352- 1-:Could not determine the chip, default setting to 2801
+- 1558679183041 -140369007212352- 2-:create Chip2801
+- 1558679899341 -140199215376192- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558679899348 -140199215376192- 2-:found device:USB_FTDI_0000
+- 1558679899358 -140199215376192- 1-:Could not determine the chip, default setting to 2801
+- 1558679899358 -140199215376192- 2-:create Chip2801
+- 1558679982033 -139770218866496- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558679982036 -139770218866496- 2-:found device:USB_FTDI_0000
+- 1558679982049 -139770218866496- 1-:Could not determine the chip, default setting to 2801
+- 1558679982049 -139770218866496- 2-:create Chip2801
+- 1558680007149 -140134679304000- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680007152 -140134679304000- 2-:found device:USB_FTDI_0000
+- 1558680007161 -140134679304000- 1-:Could not determine the chip, default setting to 2801
+- 1558680007161 -140134679304000- 2-:create Chip2801
+- 1558680060562 -139958115641152- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680060565 -139958115641152- 2-:found device:USB_FTDI_0000
+- 1558680060576 -139958115641152- 1-:Could not determine the chip, default setting to 2801
+- 1558680060576 -139958115641152- 2-:create Chip2801
+- 1558680176218 -140672944482112- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680176223 -140672944482112- 2-:found device:USB_FTDI_0000
+- 1558680176234 -140672944482112- 1-:Could not determine the chip, default setting to 2801
+- 1558680176234 -140672944482112- 2-:create Chip2801
+- 1558680227323 -140339762698048- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680227327 -140339762698048- 2-:found device:USB_FTDI_0000
+- 1558680227340 -140339762698048- 1-:Could not determine the chip, default setting to 2801
+- 1558680227340 -140339762698048- 2-:create Chip2801
+- 1558680306614 -140611900008256- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680306619 -140611900008256- 2-:found device:USB_FTDI_0000
+- 1558680306629 -140611900008256- 1-:Could not determine the chip, default setting to 2801
+- 1558680306629 -140611900008256- 2-:create Chip2801
+- 1558680580321 -140005415618368- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680580325 -140005415618368- 2-:found device:USB_FTDI_0000
+- 1558680580336 -140005415618368- 1-:Could not determine the chip, default setting to 2801
+- 1558680580336 -140005415618368- 2-:create Chip2801
+- 1558680613428 -139850968868672- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680613431 -139850968868672- 2-:found device:USB_FTDI_0000
+- 1558680613439 -139850968868672- 1-:Could not determine the chip, default setting to 2801
+- 1558680613439 -139850968868672- 2-:create Chip2801
+- 1558680709539 -139750447040320- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680709545 -139750447040320- 2-:found device:USB_FTDI_0000
+- 1558680709557 -139750447040320- 1-:Could not determine the chip, default setting to 2801
+- 1558680709558 -139750447040320- 2-:create Chip2801
+- 1558680800987 -140540107278144- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558680800993 -140540107278144- 2-:found device:USB_FTDI_0000
+- 1558680801005 -140540107278144- 1-:Could not determine the chip, default setting to 2801
+- 1558680801005 -140540107278144- 2-:create Chip2801
+- 1558681580242 -139780320282432- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558681580247 -139780320282432- 2-:found device:USB_FTDI_0000
+- 1558681580259 -139780320282432- 1-:Could not determine the chip, default setting to 2801
+- 1558681580259 -139780320282432- 2-:create Chip2801
+- 1558681784934 -140318360348480- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558681784939 -140318360348480- 2-:found device:USB_FTDI_0000
+- 1558681784951 -140318360348480- 1-:Could not determine the chip, default setting to 2801
+- 1558681784952 -140318360348480- 2-:create Chip2801
+- 1558681846880 -140616648320832- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558681846884 -140616648320832- 2-:found device:USB_FTDI_0000
+- 1558681846895 -140616648320832- 1-:Could not determine the chip, default setting to 2801
+- 1558681846895 -140616648320832- 2-:create Chip2801
+- 1558681956494 -140272600086336- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558681956499 -140272600086336- 2-:found device:USB_FTDI_0000
+- 1558681956506 -140272600086336- 1-:Could not determine the chip, default setting to 2801
+- 1558681956507 -140272600086336- 2-:create Chip2801
+- 1558682117551 -140502401845056- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558682117555 -140502401845056- 2-:found device:USB_FTDI_0000
+- 1558682117566 -140502401845056- 1-:Could not determine the chip, default setting to 2801
+- 1558682117566 -140502401845056- 2-:create Chip2801
+- 1558682329170 -139996935882560- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558682329176 -139996935882560- 2-:found device:USB_FTDI_0000
+- 1558682329186 -139996935882560- 1-:Could not determine the chip, default setting to 2801
+- 1558682329186 -139996935882560- 2-:create Chip2801
+- 1558682407867 -139782967891776- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558682407871 -139782967891776- 2-:found device:USB_FTDI_0000
+- 1558682407879 -139782967891776- 1-:Could not determine the chip, default setting to 2801
+- 1558682407879 -139782967891776- 2-:create Chip2801
+- 1558682434672 -140511531259712- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558682434678 -140511531259712- 2-:found device:USB_FTDI_0000
+- 1558682434686 -140511531259712- 1-:Could not determine the chip, default setting to 2801
+- 1558682434686 -140511531259712- 2-:create Chip2801
+- 1558682641949 -139713538975552- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558682641954 -139713538975552- 2-:found device:USB_FTDI_0000
+- 1558682641966 -139713538975552- 1-:Could not determine the chip, default setting to 2801
+- 1558682641966 -139713538975552- 2-:create Chip2801
+- 1558682664337 -140404667668288- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1558682664340 -140404667668288- 2-:found device:USB_FTDI_0000
+- 1558682664348 -140404667668288- 1-:Could not determine the chip, default setting to 2801
+- 1558682664348 -140404667668288- 2-:create Chip2801
+- 1559199814101 -139741526886208- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1559199814107 -139741526886208- 2-:found device:USB_FTDI_0000
+- 1559199814116 -139741526886208- 1-:Could not determine the chip, default setting to 2801
+- 1559199814116 -139741526886208- 2-:create Chip2801
+- 1559199860982 -140531637622592- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1559199860985 -140531637622592- 2-:found device:USB_FTDI_0000
+- 1559199860995 -140531637622592- 1-:Could not determine the chip, default setting to 2801
+- 1559199860995 -140531637622592- 2-:create Chip2801
+- 1559199955085 -140127474394944- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1559199955089 -140127474394944- 2-:found device:USB_FTDI_0000
+- 1559199955103 -140127474394944- 1-:Could not determine the chip, default setting to 2801
+- 1559199955103 -140127474394944- 2-:create Chip2801
+- 1559200003072 -139687656613696- 2-:GTI SDK 4.0.0.rc-1  built on: May 16 2019
+- 1559200003077 -139687656613696- 2-:found device:USB_FTDI_0000
+- 1559200003087 -139687656613696- 1-:Could not determine the chip, default setting to 2801
+- 1559200003087 -139687656613696- 2-:create Chip2801

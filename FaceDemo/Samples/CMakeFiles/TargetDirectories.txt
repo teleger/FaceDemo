@@ -1,0 +1,3 @@
+/home/firefly/FaceDemo/Samples/CMakeFiles/edit_cache.dir
+/home/firefly/FaceDemo/Samples/CMakeFiles/jlx_classify.dir
+/home/firefly/FaceDemo/Samples/CMakeFiles/rebuild_cache.dir
